@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/arthurcamurca04/prompts-recipe-to-create-a-ebook/blob/main/output/Arquitetura%20Limpa%20e%20SOLID.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -57,7 +57,7 @@ ChatGPT：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/47853932?s=100&u=1de893a4b6019d50741107131177d93b0805951c&v=4"
     />
     <p>&nbsp&nbsp&nbspArthur Rabelo<br>
     &nbsp&nbsp&nbsp
