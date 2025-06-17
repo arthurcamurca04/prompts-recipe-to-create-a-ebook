@@ -50,8 +50,6 @@ ChatGPT：
 
 - ebook gerado durante as aulas em `output`
 
-## 👨‍💻 Expert
-
 <p>
     <img 
       align=left 
